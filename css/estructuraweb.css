@@ -1,0 +1,28 @@
+#estructuraweb .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#estructuraweb h3 {
+    text-align: center;
+}
+
+#estructuraweb p {
+    text-align: justify;
+}
+
+#estructuraweb article {
+    margin: 15px;
+}
+
+#estructuraweb img {
+    width: 98%;
+    max-width: 200px;
+    height: 200px;
+    border-radius: 50%;   
+}
+
+#estructuraweb {
+    align-items: center;
+}

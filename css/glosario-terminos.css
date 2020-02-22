@@ -1,0 +1,28 @@
+#glosario-terminos .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#glosario-terminos h4 {
+    text-align: center;
+}
+
+#glosario-terminos p {
+    text-align: justify;
+}
+
+#glosario-terminos article {
+    margin: 15px;
+}
+
+#glosario-terminos img {
+    width: 100%;
+    max-width: 200px;
+    height: 200px;
+    border-bottom: 50%;   
+}
+
+#glosario-terminos {
+    align-items: center;
+}

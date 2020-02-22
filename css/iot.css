@@ -1,0 +1,28 @@
+#iot .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#iot h3 {
+    text-align: center;
+}
+
+#iot p {
+    text-align: justify;
+}
+
+#iot article {
+    margin: 15px;
+}
+
+#iot img {
+    width: 100%;
+    max-width: 350px;
+    height: 250px;
+    border-bottom: 50%;   
+}
+
+#iot {
+    align-items: center;
+}

@@ -1,0 +1,51 @@
+#web{
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+#web .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#web h4 {
+    font-size:1.17em;
+    text-align: center;
+    color: red;
+}
+
+#web h3 {
+    font-size:1.01em;
+    text-align: justify;
+}
+
+#web p {
+    text-align: justify;
+}
+
+.web-tour{
+    margin: 20px;
+}
+
+.web-tour img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 8px solid #fff;
+}
+
+
+@media (min-width:480px){
+    .web-tour{
+        width: 40%;
+    }
+}
+
+@media (min-width:1024px){
+    .web-tour{
+        width: auto;
+    }
+}

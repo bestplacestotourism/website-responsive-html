@@ -1,0 +1,36 @@
+#grupo .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#grupo article {
+    margin: 15px;
+}
+
+#grupo h3 {
+    font-family: 'Lucida', sans-serif, bold;
+    font-size: 3.0em;
+    text-align: center;
+}
+
+#grupo h4{
+    font-family: 'Times',serif,bold;
+    font-size: 1.7em;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#grupo h5{
+    font-family: 'Times New Roman',serif;
+    font-size: 1.2em;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#grupo img {
+    width: 100%;
+    max-width: 500px;
+    height: 450px;
+    border-bottom: 50%;
+}
